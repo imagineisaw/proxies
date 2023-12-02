@@ -10,7 +10,7 @@ https://schoolguide.buzz/
 
 
 Ultra
-[ultra]https://fishme.me/uv/
+[ultra](https://fishme.me/uv/)
 
 
  Free Movies
